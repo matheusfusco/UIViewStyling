@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FinalViewController.swift
 //  UIViewStyling
 //
 //  Created by Matheus on 26/02/19.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FinalViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
     }
-
-
 }
-
